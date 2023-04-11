@@ -1,3 +1,6 @@
+write a function called maxSubaraySum which accepts an array of integers and a number called n. 
+the function should calculate the maximum sum of n consecutive elements in the array.
+
 function maxSubarraySum(arr, num){
     let maxSum = 0;
     let tempSum = 0;
